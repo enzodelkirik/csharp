@@ -1,0 +1,14 @@
+C:\gb\csharp\workshops\sem1\task07\bin\Debug\net8.0\task07.exe
+C:\gb\csharp\workshops\sem1\task07\bin\Debug\net8.0\task07.deps.json
+C:\gb\csharp\workshops\sem1\task07\bin\Debug\net8.0\task07.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\task07\bin\Debug\net8.0\task07.dll
+C:\gb\csharp\workshops\sem1\task07\bin\Debug\net8.0\task07.pdb
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.dll
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\refint\task07.dll
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.pdb
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\task07.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\task07\obj\Debug\net8.0\ref\task07.dll

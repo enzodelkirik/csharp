@@ -1,0 +1,14 @@
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\task01\bin\Debug\net8.0\task01.exe
+C:\gb\csharp\workshops\sem1\task01\bin\Debug\net8.0\task01.deps.json
+C:\gb\csharp\workshops\sem1\task01\bin\Debug\net8.0\task01.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\task01\bin\Debug\net8.0\task01.dll
+C:\gb\csharp\workshops\sem1\task01\bin\Debug\net8.0\task01.pdb
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.dll
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\refint\task01.dll
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.pdb
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\task01.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\task01\obj\Debug\net8.0\ref\task01.dll

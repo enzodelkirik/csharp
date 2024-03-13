@@ -1,0 +1,14 @@
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\task03\bin\Debug\net8.0\task03.exe
+C:\gb\csharp\workshops\sem1\task03\bin\Debug\net8.0\task03.deps.json
+C:\gb\csharp\workshops\sem1\task03\bin\Debug\net8.0\task03.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\task03\bin\Debug\net8.0\task03.dll
+C:\gb\csharp\workshops\sem1\task03\bin\Debug\net8.0\task03.pdb
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.dll
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\refint\task03.dll
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.pdb
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\task03.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\task03\obj\Debug\net8.0\ref\task03.dll
