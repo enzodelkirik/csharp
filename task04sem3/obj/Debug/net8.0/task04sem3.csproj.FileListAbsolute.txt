@@ -1,0 +1,15 @@
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.sourcelink.json
+C:\gb\csharp\workshops\sem1\task04sem3\bin\Debug\net8.0\task04sem3.exe
+C:\gb\csharp\workshops\sem1\task04sem3\bin\Debug\net8.0\task04sem3.deps.json
+C:\gb\csharp\workshops\sem1\task04sem3\bin\Debug\net8.0\task04sem3.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\task04sem3\bin\Debug\net8.0\task04sem3.dll
+C:\gb\csharp\workshops\sem1\task04sem3\bin\Debug\net8.0\task04sem3.pdb
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.dll
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\refint\task04sem3.dll
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.pdb
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\task04sem3.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\task04sem3\obj\Debug\net8.0\ref\task04sem3.dll
