@@ -1,0 +1,15 @@
+C:\gb\csharp\workshops\sem1\dz2503\zad3\bin\Debug\net8.0\zad3.exe
+C:\gb\csharp\workshops\sem1\dz2503\zad3\bin\Debug\net8.0\zad3.deps.json
+C:\gb\csharp\workshops\sem1\dz2503\zad3\bin\Debug\net8.0\zad3.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\dz2503\zad3\bin\Debug\net8.0\zad3.dll
+C:\gb\csharp\workshops\sem1\dz2503\zad3\bin\Debug\net8.0\zad3.pdb
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.sourcelink.json
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.dll
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\refint\zad3.dll
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.pdb
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\zad3.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\dz2503\zad3\obj\Debug\net8.0\ref\zad3.dll
