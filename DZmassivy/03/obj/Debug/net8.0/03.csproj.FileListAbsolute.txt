@@ -1,0 +1,15 @@
+C:\gb\csharp\workshops\sem1\DZmassivy\03\bin\Debug\net8.0\03.exe
+C:\gb\csharp\workshops\sem1\DZmassivy\03\bin\Debug\net8.0\03.deps.json
+C:\gb\csharp\workshops\sem1\DZmassivy\03\bin\Debug\net8.0\03.runtimeconfig.json
+C:\gb\csharp\workshops\sem1\DZmassivy\03\bin\Debug\net8.0\03.dll
+C:\gb\csharp\workshops\sem1\DZmassivy\03\bin\Debug\net8.0\03.pdb
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.AssemblyInfoInputs.cache
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.AssemblyInfo.cs
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.csproj.CoreCompileInputs.cache
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.sourcelink.json
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.dll
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\refint\03.dll
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.pdb
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\03.genruntimeconfig.cache
+C:\gb\csharp\workshops\sem1\DZmassivy\03\obj\Debug\net8.0\ref\03.dll
